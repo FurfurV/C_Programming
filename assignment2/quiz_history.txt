@@ -1,0 +1,36 @@
+Name of the quiz file: q.txt
+Number of questions answered correctly: 0
+Total number of questions: 4
+Difficulty level: 4
+Name of the quiz file: q.txt
+Number of questions answered correctly: 0
+Total number of questions: 4
+Difficulty level: 1
+Name of the quiz file: q.txt
+Number of questions answered correctly: 2
+Total number of questions: 4
+Difficulty level: 1
+Name of the quiz file: q.txt
+Number of questions answered correctly: 1
+Total number of questions: 4
+Difficulty level: 1
+Name of the quiz file: q.txt
+Number of questions answered correctly: 1
+Total number of questions: 4
+Difficulty level: 1
+Name of the quiz file: q.txt
+Number of questions answered correctly: 1
+Total number of questions: 4
+Difficulty level: 5
+Name of the quiz file: q.txt
+Number of questions answered correctly: 5
+Total number of questions: 8
+Difficulty level: 5
+Name of the quiz file: q.txt
+Number of questions answered correctly: 0
+Total number of questions: 4
+Difficulty level: 3
+Name of the quiz file: q.txt
+Number of questions answered correctly: 5
+Total number of questions: 6
+Difficulty level: 5
